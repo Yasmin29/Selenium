@@ -1,4 +1,4 @@
-# SeuBarrig - TestesComSelenium
+# SeuBarriga - TestesComSelenium
 Exercícios de testes, no site "seubarriga.wcaquino.me", feitos no curso de Selenium do professor Wagner Costa
 # Requisitos
 - Java 8+ JDK deve estar instalado
